@@ -1,0 +1,10 @@
+.App {
+  width: 100vw;
+  height: 50vh;
+  padding: 30px;
+}
+
+.products {
+  display: flex;
+  flex-direction: row;
+}
